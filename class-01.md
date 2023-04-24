@@ -12,5 +12,20 @@ Getting Started
    <li>4. A typical website contains a header, navigation bar, main content, sidebar and a footer.
    <li>5. Specifying a description that includes keywords relating to the content of your page is useful as it has the potential to make your page appear higher in relevant searches.
    <li>6. The element specifies the document's character encoding.
-  Miscellaneous
-   <li>1. 
+     
+     Miscellaneous
+   <li>1. The first step is your idea and what you want to accomplish once finished with your website.
+   <li>2. "What exactly do I want to Accomplish?"
+     
+     Semantics
+   <li>1. An h1 element has Semantic values, where a span element does not.
+   <li>2. The Benefits
+    <li>Search engines will consider its contents as important keywords to influence the page's search rankings.
+    <li>Screen readers can use it as a signpost to help visually impaired users navigate a page
+    <li>Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+    <li>Suggests to the developer the type of data that will be populated
+    <li>Semantic naming mirrors proper custom element/component naming.
+      
+    What is Javascript?
+    <li>1. Control multimedia and animate images.
+    <li>2. By using the script element, you can add Javascript.
